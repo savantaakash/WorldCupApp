@@ -28,8 +28,6 @@ These are Steps to create  to shoe different Country Flags and showed them world
 
 ## App Screenshots
 
-![Screenshot1:](https://github.com/savantaakash/WorldCupApp/blob/main/Screenshots/Screenshot1.jpg?raw=true)
-
-![Screenshot 2:](https://github.com/savantaakash/WorldCupApp/blob/main/Screenshots/Screenshot2.jpg?raw=true)
+![Screenshot1:](https://github.com/savantaakash/WorldCupApp/blob/main/Screenshots/Screenshot1.jpg?raw=true)![Screenshot 2:](https://github.com/savantaakash/WorldCupApp/blob/main/Screenshots/Screenshot2.jpg?raw=true)
 
 
